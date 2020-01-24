@@ -3,4 +3,5 @@ This is a simple readme file
 
 ##Heading 2
 
-I hope this is not a problem!
+updating for diff, on a branch
+This is bound to cause trouble
